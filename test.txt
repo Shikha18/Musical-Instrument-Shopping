@@ -3,3 +3,4 @@ Applied the basic concepts of programming in PYTHON to
  build a mini project on musical instruments .
  People who are interested in music they can use it. 
 They can buy items related to music like earphones, headphones, guitar, piano etc.
+New Line added
